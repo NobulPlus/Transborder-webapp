@@ -1,5 +1,5 @@
 import React from "react";
-import world from "../../assets/world.png";
+import world from "../../assets/World.png";
 
 function AccCreate() {
   return (
