@@ -10,7 +10,7 @@ import AccCreate from "./pages/SignUp/AccCreate";
 import LogEmail from "./pages/LogIn/LogEmail";
 import Reset from "./pages/LogIn/Reset";
 import Preset from "./pages/LogIn/Preset";
-import Dashboard from "./pages/Dashboard/dashboard";
+import Dashboard from "./pages/Dashboard/Dashboard";
 import Settings from "./pages/Dashboard/Settings";
 import Onboard from "./pages/Onboard";
 import Send from "./pages/Dashboard/Send";
